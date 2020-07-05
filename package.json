@@ -1,0 +1,11 @@
+{
+  "name": "vueconsole",
+  "version": "1.0.0",
+  "description": "Change the color for console warning etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "Manoj Kumar Sharma",
+  "license": "ISC"
+}
