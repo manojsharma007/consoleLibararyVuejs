@@ -1,7 +1,7 @@
 {
-  "name": "vueconsole",
-  "version": "1.0.0",
-  "description": "Change the color for console warning etc",
+  "name": "changecolorconsole",
+  "version": "1.0.3",
+  "description": "Change the color for console ,warning etc",
   "main": "index.js",
   "scripts": {
     "test": "npm run"

@@ -1,4 +1,11 @@
-function changeColor(option){
- console.log('%cHello World','color:"option"');
+function changecolorconsole(option){
+    let styles = [      
+        , 'color: green'        
+    ].join(';');
+    
+    console.log('%c'+option, styles);
+    
 }
-module.exports.changeColor =changeColor;
+
+changecolorconsole("abc")
+//module.exports.changecolorconsole =changecolorconsole;
